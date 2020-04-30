@@ -1,27 +1,16 @@
 nav a:nth-child(2){
-    color: rgb(119, 113, 103);
+    color: rgb(255, 153, 0);
     font-weight: bold;
 }
-article{
+section{
     width: 100%;
     height: 75vh;
+    margin-top: 25vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    position: fixed;
-    top: 20vh;
 }
 img{
     width: 30%;
-}
-footer{
-    width: 100%;
-    height: 5vh;
-    background-color: rgb(165, 165, 165);
-    position: fixed;
-    top: 95vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }

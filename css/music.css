@@ -3,9 +3,9 @@ nav a:nth-child(3){
     font-weight: bold;
 }
 
-article{
-    margin-top: 20vh;
-    width: 20%;
+section{
+    margin-top: 25vh;
+    width: 35%;
     display: flex;
     flex-direction: column;
     align-items: baseline;
@@ -19,19 +19,9 @@ h2{
 ul{
     margin-left: 30px;
 }
-article iframe{
+iframe{
     margin: 20px 0;
 }
-article p{
+section p{
     line-height: 40px;
-}
-footer{
-    width: 100%;
-    height: 5vh;
-    margin-top: 30px;
-    background-color: rgb(165, 165, 165);
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
 }
