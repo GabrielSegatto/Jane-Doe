@@ -1,0 +1,36 @@
+nav a:nth-child(1){
+    color: rgb(255, 153, 0);
+    font-weight: bold;
+}
+
+.jane1{
+    width: 100%;
+}
+
+article{
+    width: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 35px 0;
+}
+article h2{
+    margin: 15px 0;
+}
+
+footer{
+    display: flex;
+    width: 70%;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center ;
+}
+#ilustracao{
+    width: 50%;
+}
+footer li{
+    line-height: 40px;
+}
+.amarelo{
+    color: rgb(255, 153, 0);
+}
